@@ -62,6 +62,7 @@ This repository is my personal catalog of problems solved on LeetCode. Each file
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/InventedSarawak/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/InventedSarawak/DSA/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -74,6 +75,10 @@ This repository is my personal catalog of problems solved on LeetCode. Each file
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/InventedSarawak/DSA/tree/master/1013-fibonacci-number) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/InventedSarawak/DSA/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
 
 ---
