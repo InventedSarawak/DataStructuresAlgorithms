@@ -3,7 +3,7 @@ class Solution:
         length: int = len(nums)
         isNotSorted: int = 0
         j: int = 0
-        for j in range(length):  # j == 3
+        for j in range(length):
             i: int = 0
             while i < length - 1:
                 if nums[(i + j) % length] > nums[(i + j + 1) % length]:
