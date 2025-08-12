@@ -1,9 +1,21 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        arr1 = [ord(char) - ord('a') for char in s]
-        arr2 = [ord(char) - ord('a') for char in t]
-        arr1.sort()
-        arr2.sort()
-        if arr1 == arr2:
+        freq_1 = {}
+        freq_2 = {}
+
+        if len(s) != len(t):
+            return False
+        for i in range(len(s)):
+            if s[i] in freq_1:
+                freq_1[s[i]] += 1
+            else:
+                freq_1[s[i]] = 1
+            
+            if t[i] in freq_2:
+                freq_2[t[i]] += 1
+            else:
+                freq_2[t[i]] = 1
+        
+        if freq_1 == freq_2:
             return True
         return False
