@@ -52,6 +52,7 @@ This repository is my personal catalog of problems solved on LeetCode. Each file
 | [0054-spiral-matrix](https://github.com/InventedSarawak/DSA/tree/master/0054-spiral-matrix) |
 | [0136-single-number](https://github.com/InventedSarawak/DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/InventedSarawak/DSA/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/InventedSarawak/DSA/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/InventedSarawak/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/InventedSarawak/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/InventedSarawak/DSA/tree/master/0268-missing-number) |
@@ -132,6 +133,7 @@ This repository is my personal catalog of problems solved on LeetCode. Each file
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/InventedSarawak/DSA/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/InventedSarawak/DSA/tree/master/0200-number-of-islands) |
 ## Simulation
 |  |
 | ------- |
@@ -144,6 +146,18 @@ This repository is my personal catalog of problems solved on LeetCode. Each file
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/InventedSarawak/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/InventedSarawak/DSA/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/InventedSarawak/DSA/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/InventedSarawak/DSA/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
 
 ---
