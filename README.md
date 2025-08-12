@@ -57,6 +57,7 @@ This repository is my personal catalog of problems solved on LeetCode. Each file
 | [0268-missing-number](https://github.com/InventedSarawak/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/InventedSarawak/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/InventedSarawak/DSA/tree/master/0485-max-consecutive-ones) |
+| [1395-minimum-time-visiting-all-points](https://github.com/InventedSarawak/DSA/tree/master/1395-minimum-time-visiting-all-points) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/InventedSarawak/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
@@ -72,6 +73,7 @@ This repository is my personal catalog of problems solved on LeetCode. Each file
 | [0189-rotate-array](https://github.com/InventedSarawak/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/InventedSarawak/DSA/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/InventedSarawak/DSA/tree/master/1013-fibonacci-number) |
+| [1395-minimum-time-visiting-all-points](https://github.com/InventedSarawak/DSA/tree/master/1395-minimum-time-visiting-all-points) |
 ## Two Pointers
 |  |
 | ------- |
@@ -131,6 +133,10 @@ This repository is my personal catalog of problems solved on LeetCode. Each file
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/InventedSarawak/DSA/tree/master/0054-spiral-matrix) |
+## Geometry
+|  |
+| ------- |
+| [1395-minimum-time-visiting-all-points](https://github.com/InventedSarawak/DSA/tree/master/1395-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
 
 ---
