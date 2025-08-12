@@ -53,6 +53,7 @@ This repository is my personal catalog of problems solved on LeetCode. Each file
 | [0136-single-number](https://github.com/InventedSarawak/DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/InventedSarawak/DSA/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/InventedSarawak/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/InventedSarawak/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/InventedSarawak/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/InventedSarawak/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/InventedSarawak/DSA/tree/master/0485-max-consecutive-ones) |
@@ -61,6 +62,7 @@ This repository is my personal catalog of problems solved on LeetCode. Each file
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/InventedSarawak/DSA/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/InventedSarawak/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/InventedSarawak/DSA/tree/master/0268-missing-number) |
 | [1904-second-largest-digit-in-a-string](https://github.com/InventedSarawak/DSA/tree/master/1904-second-largest-digit-in-a-string) |
 ## Math
@@ -107,6 +109,7 @@ This repository is my personal catalog of problems solved on LeetCode. Each file
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/InventedSarawak/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/InventedSarawak/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/InventedSarawak/DSA/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
