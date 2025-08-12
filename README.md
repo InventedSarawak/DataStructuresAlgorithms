@@ -66,6 +66,7 @@ This repository is my personal catalog of problems solved on LeetCode. Each file
 | ------- |
 | [0001-two-sum](https://github.com/InventedSarawak/DSA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/InventedSarawak/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/InventedSarawak/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/InventedSarawak/DSA/tree/master/0268-missing-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/InventedSarawak/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1904-second-largest-digit-in-a-string](https://github.com/InventedSarawak/DSA/tree/master/1904-second-largest-digit-in-a-string) |
@@ -100,6 +101,7 @@ This repository is my personal catalog of problems solved on LeetCode. Each file
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/InventedSarawak/DSA/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/InventedSarawak/DSA/tree/master/0242-valid-anagram) |
 | [1904-second-largest-digit-in-a-string](https://github.com/InventedSarawak/DSA/tree/master/1904-second-largest-digit-in-a-string) |
 ## Binary Search
 |  |
@@ -115,6 +117,7 @@ This repository is my personal catalog of problems solved on LeetCode. Each file
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/InventedSarawak/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/InventedSarawak/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/InventedSarawak/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/InventedSarawak/DSA/tree/master/0268-missing-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/InventedSarawak/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Divide and Conquer
