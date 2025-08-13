@@ -79,6 +79,7 @@ This repository is my personal catalog of problems solved on LeetCode. Each file
 | [0009-palindrome-number](https://github.com/InventedSarawak/DSA/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/InventedSarawak/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/InventedSarawak/DSA/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/InventedSarawak/DSA/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/InventedSarawak/DSA/tree/master/1013-fibonacci-number) |
 | [1395-minimum-time-visiting-all-points](https://github.com/InventedSarawak/DSA/tree/master/1395-minimum-time-visiting-all-points) |
 ## Two Pointers
@@ -95,6 +96,7 @@ This repository is my personal catalog of problems solved on LeetCode. Each file
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/InventedSarawak/DSA/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/InventedSarawak/DSA/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
