@@ -57,6 +57,7 @@ This repository is my personal catalog of problems solved on LeetCode. Each file
 | [0217-contains-duplicate](https://github.com/InventedSarawak/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/InventedSarawak/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/InventedSarawak/DSA/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/InventedSarawak/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/InventedSarawak/DSA/tree/master/0485-max-consecutive-ones) |
 | [1395-minimum-time-visiting-all-points](https://github.com/InventedSarawak/DSA/tree/master/1395-minimum-time-visiting-all-points) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/InventedSarawak/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -68,6 +69,7 @@ This repository is my personal catalog of problems solved on LeetCode. Each file
 | [0217-contains-duplicate](https://github.com/InventedSarawak/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/InventedSarawak/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/InventedSarawak/DSA/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/InventedSarawak/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/InventedSarawak/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1904-second-largest-digit-in-a-string](https://github.com/InventedSarawak/DSA/tree/master/1904-second-largest-digit-in-a-string) |
 ## Math
@@ -119,19 +121,23 @@ This repository is my personal catalog of problems solved on LeetCode. Each file
 | [0217-contains-duplicate](https://github.com/InventedSarawak/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/InventedSarawak/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/InventedSarawak/DSA/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/InventedSarawak/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/InventedSarawak/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/InventedSarawak/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/InventedSarawak/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/InventedSarawak/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/InventedSarawak/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/InventedSarawak/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/InventedSarawak/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -148,6 +154,7 @@ This repository is my personal catalog of problems solved on LeetCode. Each file
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/InventedSarawak/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/InventedSarawak/DSA/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Depth-First Search
 |  |
@@ -161,6 +168,10 @@ This repository is my personal catalog of problems solved on LeetCode. Each file
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/InventedSarawak/DSA/tree/master/0200-number-of-islands) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/InventedSarawak/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
 
 ---
