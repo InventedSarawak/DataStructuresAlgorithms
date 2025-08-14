@@ -1,9 +1,12 @@
 class Solution:
 
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        hash = defaultdict(list)
+        hash = {}
         for string in strs:
             sorted_str = ''.join(sorted(string))
-            hash[sorted_str].append(string)
+            if sorted_str in hash:
+                hash[sorted_str].append(string)
+            else:
+                hash[sorted_str] = [string]
         return list(hash.values())
 
