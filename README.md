@@ -52,6 +52,7 @@ This repository is my personal catalog of problems solved on LeetCode. Each file
 | [0036-valid-sudoku](https://github.com/InventedSarawak/DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/InventedSarawak/DSA/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/InventedSarawak/DSA/tree/master/0054-spiral-matrix) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/InventedSarawak/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/InventedSarawak/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/InventedSarawak/DSA/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/InventedSarawak/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -102,6 +103,7 @@ This repository is my personal catalog of problems solved on LeetCode. Each file
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/InventedSarawak/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/InventedSarawak/DSA/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
