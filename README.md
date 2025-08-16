@@ -89,6 +89,7 @@ This repository is my personal catalog of problems solved on LeetCode. Each file
 | [0342-power-of-four](https://github.com/InventedSarawak/DSA/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/InventedSarawak/DSA/tree/master/1013-fibonacci-number) |
 | [1395-minimum-time-visiting-all-points](https://github.com/InventedSarawak/DSA/tree/master/1395-minimum-time-visiting-all-points) |
+| [1448-maximum-69-number](https://github.com/InventedSarawak/DSA/tree/master/1448-maximum-69-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -193,6 +194,10 @@ This repository is my personal catalog of problems solved on LeetCode. Each file
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/InventedSarawak/DSA/tree/master/0238-product-of-array-except-self) |
+## Greedy
+|  |
+| ------- |
+| [1448-maximum-69-number](https://github.com/InventedSarawak/DSA/tree/master/1448-maximum-69-number) |
 <!---LeetCode Topics End-->
 
 ---
